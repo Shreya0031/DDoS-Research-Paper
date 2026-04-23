@@ -60,7 +60,15 @@ The dataset contains network traffic-related features such as:
 📦 Packet Size  
 🔗 Protocol Type  
 ⏱️ Flow Duration  
-🏷️ Label (Attack / Normal)  
+🏷️ Label (Attack / Normal) 
+
+---
+
+## 🔗 Dataset Source
+⚠️ Note: Due to large file size, the complete dataset is not uploaded to GitHub.
+
+You can access the dataset here:
+https://www.kaggle.com/
 
 ---
 
