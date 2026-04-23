@@ -23,10 +23,6 @@ DDoS-Attack-Project/
 
 │ └── 📄 research-paper.pdf
 
-├── 📁 screenshots/
-
-│ └── 🖼️ output.png
-
 └── 📄 README.md
 
 ---
