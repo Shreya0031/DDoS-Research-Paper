@@ -13,7 +13,7 @@ DDoS-Attack-Project/
 
 ├── 📁 notebook/
 
-│ └── 📄 vaishnavi-project-ddos-attack.ipynb
+│ └── 📄 project-ddos-attack.ipynb
 
 ├── 📁 dataset/
 
